@@ -1,2 +1,2 @@
 # Python
- Respositório focado em python, para com consultas e projetos
+ Respositório focado no estudo de python
